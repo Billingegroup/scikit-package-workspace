@@ -1,6 +1,6 @@
 # scikit-package-workspace
 
-This is the template for Level 3 of sharing code in `scikit-package`. Please visit the following link for the latest developments and documentation: [https://github.com/Billingegroup/scikit-package](https://github.com/Billingegroup/scikit-package).
+This is the template for Level 3 of sharing code in `scikit-package`. Please visit the following link for the latest developments and documentation: [https://github.com/scikit-package/scikit-package](https://github.com/scikit-package/scikit-package).
 
 Please read the following guidelines for future contributors:
 
